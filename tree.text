@@ -1,6 +1,4 @@
-README.md
-tree -I node_modules > tree.text
-
+.
 ├── README.md
 ├── erchashu
 │   ├── README.md
@@ -14,3 +12,5 @@ tree -I node_modules > tree.text
 │   ├── README.md
 │   └── index.js
 └── tree.text
+
+2 directories, 11 files
